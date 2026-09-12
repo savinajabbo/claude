@@ -3,7 +3,7 @@
 *the electric shopping cart*
 
 **Status:** motors attached, not electric yet 😔 \
-**Location:** currently at my house 😛
+**Location:** currently at [undisclosed location] 😛
 
 
 ---
@@ -16,25 +16,29 @@
 
 Copped a lonely shopping cart. 
 
-![the cart before](docs/images/hehehe.png)
+<img src="docs/images/hehehe.png" alt="the cart before" width="400">
 
 ---
 
 ### Update 2 — Parts + Mounting the Motor · [08-17-2026]
 
-Took old razor scooters from FB Marketplace and used those!
-
-![scooters](docs/images/scooters.png)
-![motor mount](docs/images/wheels-yay.png)
+Cutting and bending a ton of metal...
+<p>
+  <img src="docs/images/scooters.png" alt="scooters" width="49%">
+  <img src="docs/images/wheels-yay.png" alt="motor mount" width="49%">
+</p>
 
 ---
 
-### Update 3 — Coming Soon? · []
+### Update 3 — Donated (temporarily) · [09-11-2026]
+
+<img src="docs/images/delivered.gif" alt="delivered" width="400">
 
 ---
 
 
 ## what's next
 
-- remote controlled steering
-- AI component!! (it is called Claude, after all) 👀
+- actually get the cart to electronically move
+- remote-controlled steering wheel (microcontrollers, raspberry pi, 3d printed parts)
+- AI component?? (it is called Claude, after all) 👀
