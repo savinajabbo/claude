@@ -1,42 +1,35 @@
-# claude
+# CLAUDE
 
-the electric shopping cart
+*the electric shopping cart*
 
-**status:** mvhs asb in use (unfinished) 
+**Status:** motors attached, not electric yet 😔 \
+**Location:** currently at my house 😛
 
----
-
-## updates
-
-*in order, from start to now*
-
-### update 1 — politely borrowing · [date]
-
-[why you started this, where the cart came from, the plan]
-
-![the cart before](docs/images/)
 
 ---
 
-### update 2 — parts + mounting the motor · [date]
+## Updates
 
-[what arrived, how you mounted the motor, how power gets to the wheels]
+*in order, from start to now...*
 
-**what went wrong:**
-**how i fixed it:**
+### Update 1 — Politely Borrowing · [08-13-2026]
 
-![motor mount](docs/images/)
+Copped a lonely shopping cart. 
+
+![the cart before](docs/images/hehehe.png)
 
 ---
 
-### update 3 — coming soon · [date]
+### Update 2 — Parts + Mounting the Motor · [08-17-2026]
 
-[how it went: did it move, how fast, what surprised you]
+Took old razor scooters from FB Marketplace and used those!
 
-**what went wrong:**
-**how i fixed it:**
+![scooters](docs/images/scooters.png)
+![motor mount](docs/images/wheels-yay.png)
 
-![first drive](docs/images/)
+---
+
+### Update 3 — Coming Soon? · []
 
 ---
 
@@ -44,4 +37,4 @@ the electric shopping cart
 ## what's next
 
 - remote controlled steering
-- AI component :P
+- AI component!! (it is called Claude, after all) 👀
