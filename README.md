@@ -16,6 +16,7 @@
 
 Copped a lonely shopping cart. 
 
+<img src="docs/images/aj-with-cart.png" alt="the cart before" width="400">
 <img src="docs/images/hehehe.png" alt="the cart before" width="400">
 
 ---
@@ -37,7 +38,7 @@ Cutting and bending a ton of metal...
 ---
 
 
-## what's next
+## What's Next
 
 - actually get the cart to electronically move
 - remote-controlled steering wheel (microcontrollers, raspberry pi, 3d printed parts)
